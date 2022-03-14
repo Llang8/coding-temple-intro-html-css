@@ -1,0 +1,20 @@
+header {
+    background-color: darkslategray;
+    color: white;
+    padding: 20px;
+}
+
+header h1 {
+    display: inline;
+    margin: 0;
+}
+
+header nav,
+header ul,
+header ul li {
+    display: inline;
+}
+
+header ul li a {
+    color: white;
+}
